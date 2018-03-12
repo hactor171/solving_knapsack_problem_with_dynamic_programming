@@ -1,0 +1,2 @@
+# solving_knapsack_problem_with_dynamic_programming
+Problem Komiwojażera dla programowania dynamicznego 
